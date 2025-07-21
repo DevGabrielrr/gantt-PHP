@@ -8,6 +8,9 @@ Este projeto é uma solução para o desafio técnico de criar um módulo de age
 - Arrastar tarefas para alterar horário ou máquina;
 - Garantir que os horários respeitem os períodos disponíveis e não haja conflito entre tarefas.
 
+<img width="1892" height="483" alt="gantt" src="https://github.com/user-attachments/assets/1a81442a-2f7d-4d22-b1a9-3414d40a1c0f" />
+
+
 ## Funcionalidades
 
 - Visualização das tarefas em uma timeline semanal (FullCalendar com Scheduler);
