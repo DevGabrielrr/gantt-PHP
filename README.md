@@ -1,7 +1,5 @@
 # Módulo de Agendamento de Tarefas - Gantt de Produção com Restrições de Horário
 
-## Descrição
-
 Este projeto é uma solução para o desafio técnico de criar um módulo de agendamento de tarefas em máquinas, respeitando restrições de horário específicas para cada máquina. As tarefas são exibidas em um gráfico de Gantt interativo, onde o usuário pode:
 
 - Visualizar as tarefas agendadas para cada máquina;
